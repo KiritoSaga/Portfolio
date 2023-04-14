@@ -158,7 +158,7 @@ import {
       company_name: "",
       icon: ct,
       iconBg: "#383E56",
-      date: "Jan 2021 - Present",
+      date: "September 2021 - Present",
       points: [
         "Developing and assisting on website/application mostly front-end related.",
         "Active participating in problem and solution finding of the project",
