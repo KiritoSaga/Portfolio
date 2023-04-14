@@ -23,8 +23,8 @@ import threejs from "./tech/threejs.svg";
 
 import ct from "./company/ct.png";
 import anizero from "./company/anizero.png";
-import mediapulse from "./company/mediapulse.png";
 import prodes from "./company/prodes.png";
+import mediapulse from "./company/mediapulse.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,8 +54,8 @@ export {
   threejs,
   ct,
   anizero,
-  mediapulse,
   prodes,
+  mediapulse,
   carrent,
   jobit,
   tripguide,
