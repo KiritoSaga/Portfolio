@@ -128,7 +128,7 @@ import {
       company_name: "Anizero",
       icon: anizero,
       iconBg: "#404040",
-      date: "March 2019 - Now",
+      date: "March 2019 - Present",
       points: [
         "Front-office: customer service & sales of product. ",
         "Back-office: human resources, technical developer & development, operational manager ",
