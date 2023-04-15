@@ -111,18 +111,6 @@ import {
   
   const experiences = [
     {
-      title: "Co-owner",
-      company_name: "Anizero",
-      icon: anizero,
-      iconBg: "#404040",
-      date: "March 2019 - Now",
-      points: [
-        "Front-office: customer service & sales of product. ",
-        "Back-office: human resources, technical developer & development, operational manager ",
-        "Investor and the main contact of the company",
-      ],
-    },
-    {
       title: "Intern React Native Developer",
       company_name: "Mediapulse",
       icon: mediapulse,
@@ -133,6 +121,18 @@ import {
         "Working with the lead developer and investors.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating hackathons and project functionalities",
+      ],
+    },
+    {
+      title: "Co-owner",
+      company_name: "Anizero",
+      icon: anizero,
+      iconBg: "#404040",
+      date: "March 2019 - Now",
+      points: [
+        "Front-office: customer service & sales of product. ",
+        "Back-office: human resources, technical developer & development, operational manager ",
+        "Investor and the main contact of the company",
       ],
     },
     {
