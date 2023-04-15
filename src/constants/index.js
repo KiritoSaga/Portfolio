@@ -11,9 +11,8 @@ import {
     redux,
     tailwind,
     nodejs,
-    mongodb,
     git,
-    figma,
+    wordpress,
     docker,
     ct,
     mediapulse,
@@ -50,7 +49,7 @@ import {
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Entrepeneur",
       icon: backend,
     },
     {
@@ -93,10 +92,6 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
       name: "Three JS",
       icon: threejs,
     },
@@ -105,8 +100,8 @@ import {
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "wordpress",
+      icon: wordpress,
     },
     {
       name: "docker",
