@@ -165,24 +165,24 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
+        "I always wanted to buy my own stocks and Christian made it true.",
+      name: "Mikan",
+      designation: "Owner",
+      company: "mikansimonis.nl/aandelen",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
+        "The government didn't allow my name plate so Christian decided to make this",
+      name: "Thijs",
+      designation: "Owner",
+      company: "Maatweb.nl/BigDaddyT",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
+        "I ran out of of testimonials so this is bs I made up❤",
+      name: "Chris",
       designation: "CTO",
       company: "456 Enterprises",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
