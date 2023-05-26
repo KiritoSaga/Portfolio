@@ -168,24 +168,24 @@ import {
         "Christian is a hardworking developer that has the protential to create great work.",
       name: "Mikan Simonis",
       designation: "Co-Owner",
-      company: "https://www.blayce.nl/",
+      company: "Blayce.nl",
       image: "src/assets/testimonials/mikan.jpg",
     },
     {
       testimonial:
         "The government didn't allow my name plate so Christian decided to make this",
-      name: "Thijs",
+      name: "Thijs Roelofse",
       designation: "Owner",
       company: "Maatweb.nl/BigDaddyT",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
       testimonial:
-        "I ran out of of testimonials so this is bs I made up❤",
-      name: "Chris",
+        "Christian sees opportunities everywhere, takes responsibility and is always ready for people.",
+      name: "Chris Beljaars",
       designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      company: "Underdogs",
+      image: "src/assets/testimonials/chris.jpg",
     },
   ];
   
