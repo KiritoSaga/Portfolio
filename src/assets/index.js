@@ -29,6 +29,9 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import chris from "./testimonials/chris.jpg"
+import mikan from "./testimonials/mikan.jpg"
+
 export {
   logo,
   backend,
@@ -57,4 +60,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  chris,
+  mikan
 };

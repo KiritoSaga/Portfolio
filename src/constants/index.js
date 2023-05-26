@@ -22,6 +22,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    chris,
+    mikan,
   } from "../assets";
   
   export const navLinks = [
@@ -169,7 +171,7 @@ import {
       name: "Mikan Simonis",
       designation: "Co-Owner",
       company: "Blayce.nl",
-      image: "src/assets/testimonials/mikan.jpg",
+      image: mikan,
     },
     {
       testimonial:
@@ -181,11 +183,11 @@ import {
     },
     {
       testimonial:
-        "Christian sees opportunities everywhere, takes responsibility and is always ready for people.",
+        "Finding opportunity is Christians strong suit, he is a responsible reliable professional.",
       name: "Chris Beljaars",
       designation: "CTO",
       company: "Underdogs",
-      image: "src/assets/testimonials/chris.jpg",
+      image: chris,
     },
   ];
   
