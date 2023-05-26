@@ -165,11 +165,11 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I always wanted to buy my own stocks and Christian made it true.",
-      name: "Mikan",
-      designation: "Owner",
-      company: "mikansimonis.nl/aandelen",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "Christian is a hardworking developer that has the protential to create great work.",
+      name: "Mikan Simonis",
+      designation: "Co-Owner",
+      company: "https://www.blayce.nl/",
+      image: "src/assets/testimonials/mikan.jpg",
     },
     {
       testimonial:
