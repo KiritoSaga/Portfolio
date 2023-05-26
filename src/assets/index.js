@@ -31,6 +31,7 @@ import tripguide from "./tripguide.png";
 
 import chris from "./testimonials/chris.jpg"
 import mikan from "./testimonials/mikan.jpg"
+import thijs from "./testimonials/thijs.jpg"
 
 export {
   logo,
@@ -61,5 +62,6 @@ export {
   jobit,
   tripguide,
   chris,
-  mikan
+  mikan,
+  thijs,
 };

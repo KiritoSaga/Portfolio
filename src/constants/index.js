@@ -24,6 +24,7 @@ import {
     threejs,
     chris,
     mikan,
+    thijs,
   } from "../assets";
   
   export const navLinks = [
@@ -178,12 +179,12 @@ import {
         "The government didn't allow my name plate so Christian decided to make this",
       name: "Thijs Roelofse",
       designation: "Owner",
-      company: "Maatweb.nl/BigDaddyT",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      company: "Maatweb.nl",
+      image: thijs,
     },
     {
       testimonial:
-        "Finding opportunity is Christians strong suit, he is a responsible reliable professional.",
+        "Finding opportunities is Christians strong suit, he is a responsible reliable professional.",
       name: "Chris Beljaars",
       designation: "CTO",
       company: "Underdogs",
