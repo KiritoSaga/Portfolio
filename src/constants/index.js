@@ -176,7 +176,7 @@ import {
     },
     {
       testimonial:
-        "The government didn't allow my name plate so Christian decided to make this",
+        "Really nice collaboration with Christian. He keeps his promises and works accurately.",
       name: "Thijs Roelofse",
       designation: "Owner",
       company: "Maatweb.nl",
@@ -194,7 +194,7 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Car Rent (Lorem ipsim)",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
@@ -215,7 +215,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Job IT  (Lorem ipsim)",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -236,7 +236,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Trip Guide  (Lorem ipsim)",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
